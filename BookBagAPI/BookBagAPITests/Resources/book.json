@@ -1,0 +1,16 @@
+{
+        "artistName": "Frank Herbert",
+        "id": "597944491",
+        "name": "Dune",
+        "releaseDate": "1975-09-01",
+        "kind": "books",
+        "artistId": "296898111",
+        "artistUrl": "https://books.apple.com/us/author/frank-herbert/id296898111",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Publication125/v4/4d/51/29/4d5129bc-4dbf-7ff5-e174-3f6b4ed6c0ff/9781101658055.d.jpg/100x150bb.png",
+        "genres": [{
+            "genreId": "10042",
+            "name": "Classics",
+            "url": "https://itunes.apple.com/us/genre/id10042"
+          }],
+        "url": "https://books.apple.com/us/book/dune/id597944491"
+}
